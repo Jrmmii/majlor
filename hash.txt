@@ -1,0 +1,1 @@
+query_id=AAFu1hIvAwAAAG7WEi8KOk2e&user=%7B%22id%22%3A7232214638%2C%22first_name%22%3A%224%20%F0%9F%A6%B4%F0%9F%A6%B4%F0%9F%A6%B4%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22batund4%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1725071508&hash=b289483f2b51e7d3db1bf0b13f61aadcd63daec0873580ca7620c44ab0b0f8f9
